@@ -13,7 +13,7 @@ This Blog with contains:
 2- Edit the credintials of your DB in .env file,
 3- Create a database called "msblog1",
 4- Execute this command lines:
-shell```
+``` shell
 php artisan optimize:clear
 php artisan migrate
 php artisan db:seed
